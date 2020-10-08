@@ -113,7 +113,7 @@ def viewCourses():
 
     print("Here are your courses {}".format(user[0]))
     for record in cursor.fetchall():
-        print("{} - {}".format(record[0], record[1]))
+        print("{} - {}".format(student_id, record[1]))
 
 def addCourses():
     cursor.execute("SELECT * FROM courses")
