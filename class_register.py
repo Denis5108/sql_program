@@ -195,4 +195,5 @@ if __name__ == "__main__":
     main()
 
 print("--- logged out ---")
+conn.commit
 conn.close()
