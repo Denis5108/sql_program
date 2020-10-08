@@ -17,9 +17,11 @@ python commands
 Python
 
 # SOURCES
-www.w3schools.com
-https://byui-cse.github.io/cse310-course/workshops/sqldb_workshop.html
-www.stackoverflow.com
+<ul>
+  <li>www.w3schools.com</li>
+  <li>https://byui-cse.github.io/cse310-course/workshops/sqldb_workshop.html</li>
+  <li>www.stackoverflow.com</li>
+</ul>
 
 # IMAGE OF SOFTWARE TEST
 <img src="sqlImage.PNG"   />
